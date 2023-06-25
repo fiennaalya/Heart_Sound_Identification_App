@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Tugas Akhir Shalfienna</string>
+    <string name="move_search_activity">Data Rekaman</string>
+    <string name="mulai_rekam">Mulai Rekam</string>
+    <string name="analisa_audio">Analisa PCG</string>
+    <string name="judul_TA">Rancang Bangun Stetoskop Elektronik Berbasis Android untuk Identifikasi Sinyal Suara Jantung</string>
+    <string name="nama">Shalfienna Alya Khansa</string>
+    <string name="nrp">07311940000032</string>
+    <string name="pembimbing_1">Pembimbing 1 : Dr. Rachmad Setiawan, S.T., M.T.</string>
+    <string name="pembimbing_2">  Pembimbing 2 : Nada Fitrieyatul Hikmah, S.T., M.T.</string>
+    <string name="nama_audio">Audio</string>
+    <string name="audio_duration">00:00</string>
+    <string name="clear_chart">Clear Chart</string>
+    <string name="pemrosesan_sinyal">Pemrosesan Sinyal</string>
+    <string name="hide_threshold">S1</string>
+    <string name="show_threshold">Show S1</string>
+    <string name="pemrosesan_frekuensi">Pemrosesan Frekuensi</string>
+    <string name="show_thresholdS2">Show S2</string>
+    <string name="hide_thresholdS2">S2</string>
+    <string name="departemen_teknik_biomedik">Departemen Teknik Biomedik</string>
+    <string name="fakultas_teknologi_elektro_dan_informatika_cerdas">Fakultas Teknologi Elektro dan Informatika Cerdas</string>
+    <string name="institut_teknologi_sepuluh_nopember">Institut Teknologi Sepuluh Nopember</string>
+    <string name="_2023">2023</string>
+    <string name="pilih_audio">Pilih Audio</string>
+</resources>
